@@ -25,14 +25,14 @@
 1. Open Xampp Control Panel From The ShortCut On Desktop.
 2. Start the Service **Apache** link.
 3. Place **Shell.php** _(File Downloaded)_. In the Folder **%XamppDirectory%/htdocs**
-4. In the **Browser**. Open Link **_127.0.0.1/shell.php_**
+4. In the **Browser**. Open Link **_127.0.0.1/Shell.php_**
 5. Your Prompt Is Ready.
 
 #### In Debian/Linux Systems **(Without Installing _Xampp_)** 
-1. Open the **Terminal**, type command **_apt-get install apache2_** **(Install Apache)**.
-2. Start **Apache Service** using Command **_ service apache2 start _**.
+1. Open the **Terminal**, type command **_apt-get install apache2_** . **(Installs Apache)**.
+2. Start **Apache Service** using Command **_service apache2 start_**.
 3. Place **Shell.php** in **_/var/www/html/*Shell.php*_**.
-4. In the **Browser**. Open Link **_127.0.0.1/shell.php_**
+4. In the **Browser**. Open Link **_127.0.0.1/Shell.php_**
 5. Your Prompt Is Ready.
 
 
