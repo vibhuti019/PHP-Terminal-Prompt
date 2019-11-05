@@ -14,7 +14,7 @@
 ####  Prerequisites :-
  * Requires **Server** That Can Execute _PHP Script_ And Can Execute _Commands_(Linux/Windows).
 #### Steps to Check The Server :- 
- * You Can Check This By Opening link "127.0..0.1 / Or **Ip Of The Server _***.***.***.***_ **" In Any Browser.
+ * You Can Check This By Opening link "127.0..0.1 / Or **Ip Of The Server _xxx.xxx.xxx.xxx_ **" In Any Browser.
  * If It Says "Failed To Connect".
  * Your Server Is Not Working And You Need To Setup **Apache** Or Any Other Type Of Server. 
  
