@@ -1,0 +1,40 @@
+
+# Terminal On Browser(Shell) 
+
+   * This Is A Simple Php Script.
+   * It Creates A Shell That Can Access The Server. 
+   * It Requires A Working Server.
+   * This Shell Independent Of Server Type.
+   * It Can Execute Both Prompt As Well As Terminal Commands
+
+
+## Getting Started:-
+* Create A Local Server(_localhost_) Using Apache.
+
+####  Prerequisites :-
+ * Requires Server That Can Execute PHP Script And Can Execute Commands(Linux/Windows).
+#### Steps to Check The Server :- 
+ * You Can Check This By Opening link "127.0..0.1 / Or **Ip Of The Server _***.***.***.*** **" In Any Browser.
+ * If It Says "Failed To Connect".
+ * Your Server Is Not Working And You Need To Setup **Apache**. 
+ 
+#### Steps To Initialize And Create Server On Local Host :-
+
+ * If **Xampp** Is Not Installed. Download and Install [Xampp](https://www.apachefriends.org/download.html)
+#### In Windows Based Systems:
+1. Open Xampp Control Panel.
+2. Start the Service **Apache** link.
+3. Place **Shell.php** _(File Downloaded)_. In the Folder **%XamppDirectory%/htdocs**
+4. In the **Browser**. Open Link **_127.0.0.1/shell.php_**
+5. Your Prompt Is Ready.
+
+#### In Debian/Linux Systems **(Without Installing _Xampp_)** 
+1. Open the **Terminal**, type command **_apt-get install apache2_** **(Install Apache)**.
+2. Start **Apache Service** using Command **_ service apache2 start _**.
+3. Place **Shell.php** in **_/var/www/html/*Shell.php*_**.
+4. In the **Browser**. Open Link **_127.0.0.1/shell.php_**
+5. Your Prompt Is Ready.
+
+
+## Author
+* **Vibhuti Singh** - **_College Student_** :wink: -[ABES Engineering College,Ghaziabad](https://www.abes.ac.in/)
