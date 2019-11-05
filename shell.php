@@ -119,6 +119,7 @@ if (isset($_GET["feature"])) {
                 font-family: monospace;
             }
 
+            
             #shell {
                 background: #222;
                 max-width: 800px;
