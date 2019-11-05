@@ -14,13 +14,13 @@
 ####  Prerequisites :-
  * Requires **Server** That Can Execute _PHP Script_ And Can Execute _Commands_(Linux/Windows).
 #### Steps to Check The Server :- 
- * You Can Check This By Opening link "127.0..0.1 / Or **Ip Of The Server _xxx.xxx.xxx.xxx_ **" In Any Browser.
+ * You Can Check This By Opening link "127.0..0.1 / Or **Ip Of The Server _xxx.xxx.xxx.xxx_** " In Any Browser.
  * If It Says "Failed To Connect".
  * Your Server Is Not Working And You Need To Setup **Apache** Or Any Other Type Of Server. 
  
 #### Steps To Initialize And Create Server On Local Host :-
 
- * If **Xampp** Is Not Installed. Download and Install [Xampp](https://www.apachefriends.org/download.html)
+ * If **Xampp** Is Not Installed. Download and Install **[Xampp](https://www.apachefriends.org/download.html)**
 #### In Windows Based Systems:
 1. Open Xampp Control Panel From The ShortCut On Desktop.
 2. Start the Service **Apache** link.
